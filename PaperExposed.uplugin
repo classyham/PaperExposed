@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PaperExposed",
+	"Description": "Exposes paper2D classes to be extended in Blueprint",
+	"Category": "Other",
+	"CreatedBy": "Classyham",
+	"CreatedByURL": "https://classyham.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://classyham.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PaperExposed",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
